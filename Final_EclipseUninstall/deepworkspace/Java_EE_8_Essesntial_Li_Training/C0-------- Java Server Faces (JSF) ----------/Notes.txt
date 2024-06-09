@@ -1,0 +1,21 @@
+Faces Servlet 
+
+	manages for request processing lifecycle for JSF applications.
+	
+Facelet 
+	
+	views featuring a component tree that corresponds to the user interface.
+	
+Component 
+
+	server-side UI component corresponding to HTML component that render on the browser.
+	
+backing Bean
+
+	CDI beans with fields and methods that bind to component data and actions.
+	
+Event handler
+
+	Method on a backing bean bound to component actions.
+	
+	

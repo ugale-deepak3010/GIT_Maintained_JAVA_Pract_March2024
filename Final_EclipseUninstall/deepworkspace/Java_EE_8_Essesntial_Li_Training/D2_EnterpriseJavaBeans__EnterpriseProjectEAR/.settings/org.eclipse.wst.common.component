@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="D2_EnterpriseJavaBeans__EnterpriseProjectEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="D1_EnterpriseJavaBeans__EJBBasic.jar" deploy-path="/" handle="module:/resource/D1_EnterpriseJavaBeans__EJBBasic/D1_EnterpriseJavaBeans__EJBBasic">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="D1_TestServletProj.war" deploy-path="/" handle="module:/resource/D1_TestServletProj/D1_TestServletProj">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

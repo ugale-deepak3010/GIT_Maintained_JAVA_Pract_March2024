@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<h1>Welcome at Secure Page</h1>
+
+<form action="@{logout}" method="post" >
+	<input type="button" value="logout" >
+</form>
+
+<h2>Hello [[${#HttpServletRequest.remoteUser}]] </h2>
+
+</body>
+</html>

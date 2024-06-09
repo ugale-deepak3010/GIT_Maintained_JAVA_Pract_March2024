@@ -1,0 +1,24 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import myPack.CalculatorService;
+
+class calculatorTest {
+
+	CalculatorService calculatorService;
+	
+	@Test
+	void testAddMethod() {
+		
+		int addTwoNumResult = calculatorService.AddTwoNum(3, 5);
+		
+		assertEquals(9, addTwoNumResult);
+		
+	}
+	
+	
+	
+	
+
+}

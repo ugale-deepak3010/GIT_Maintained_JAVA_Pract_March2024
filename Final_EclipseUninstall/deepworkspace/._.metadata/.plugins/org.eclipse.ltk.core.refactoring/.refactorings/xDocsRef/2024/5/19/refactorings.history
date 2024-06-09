@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;xDocsRef/Java&apos; to &apos;Core-Java&apos;" description="Rename resource &apos;Java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Java" name="Core-Java" stamp="1715099374829" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;xDocsRef/Spring-Boot/$1_Spring Boot - Basics&apos; to &apos;A0_Spring Boot - Basics&apos;" description="Rename resource &apos;$1_Spring Boot - Basics&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Spring-Boot/$1_Spring Boot - Basics" name="A0_Spring Boot - Basics" stamp="1715167193082" updateReferences="true"/>
+</session>

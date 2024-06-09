@@ -1,0 +1,23 @@
+INDEX VERSION 1.134
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2801458687.index
+\3SmallMVCProject\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\817071598.index
+\DeleteMe\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3198828378.index
+\4DB_Connectivity_With_JPA\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\264046236.index
+\B_JSP_Basic\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3300510238.index
+\2_BasicSpringBootApp\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1832877653.index
+\D_SubmissionForm\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3490914433.index
+\B3_ServletAPI_ServerBasics_JavaStandardTagLibrary\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\983552472.index
+\CoursesWebApp\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\965089963.index
+\Customers_API\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1065185177.index
+\B2_ServletAPI_ServerBasics_JSPBasic\src\main\java
+C:\Users\Dipak.Ugale\Apps\deepakworkspace\eclipseworkspace\eclipse29122023workspace\deepworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3054398401.index
+\D1_TestServletProj\src\main\java

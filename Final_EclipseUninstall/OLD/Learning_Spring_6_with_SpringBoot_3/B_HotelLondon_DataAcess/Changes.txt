@@ -1,0 +1,9 @@
+Changes:
+
+added dependencies:
+
+	data JPA
+	H2 database
+	Lambok
+	
+src folder in sql and schema sql imported.

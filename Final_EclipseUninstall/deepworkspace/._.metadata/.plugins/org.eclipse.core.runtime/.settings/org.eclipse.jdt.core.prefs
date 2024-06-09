@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/Dipak.Ugale/jee-2024-03/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Users/Dipak.Ugale/Apps/ZULLU_COPIED/Zulu/zulu-17/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Users/Dipak.Ugale/Apps/ZULLU_COPIED/Zulu/zulu-17/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/Dipak.Ugale/.p2/pool/plugins/org.junit_4.13.2.v20230809-1000.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/Dipak.Ugale/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.compliance=17
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=17
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
+org.eclipse.jdt.core.userLibrary.jakarta.faces-api-2.3.2.jar=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="true" version\="2">\r\n\t<archive path\="C\:/Users/Dipak.Ugale/Apps/deepakworkspace/eclipseworkspace/MyCustomJarStored/jakarta.faces-api-2.3.2.jar" sourceattachment\="C\:/Users/Dipak.Ugale/.m2/repository/jakarta/faces/jakarta.faces-api/2.3.2/jakarta.faces-api-2.3.2-sources.jar"/>\r\n</userlibrary>\r\n

@@ -1,0 +1,16 @@
+<root>
+  <facet id="jst.jsf">
+    <node name="libprov">
+      <node name="last-provider-used">
+        <attribute name="2.3" value="jsf-user-library-provider"/>
+      </node>
+    </node>
+    <node name="user.library.provider">
+      <node name="last.used.libraries">
+        <node name="2.3">
+          <node name="jakarta.faces-api-2.3.2.jar"/>
+        </node>
+      </node>
+    </node>
+  </facet>
+</root>
